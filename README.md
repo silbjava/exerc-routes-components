@@ -1,6 +1,12 @@
-# Atividade de Fixação sobre rotas e componentes em react.
- Projeto React que simula um simples website com múltiplas páginas, com  o intuito de aprender a:  
-1. Configurar rotas usando o React Router
-2. criar componentes de página
-3. Trabalhar com componentes de layout e melhorar a performance do aplicativo.
-4. Tratar rotas inválidas e utilizar parâmetros de URL.  
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
