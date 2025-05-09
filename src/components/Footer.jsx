@@ -1,5 +1,3 @@
-import React from 'react';
-import { Link } from 'react-router-dom';
 
 export default function Footer() {
   return (
@@ -11,6 +9,7 @@ export default function Footer() {
 }
 
 const footerStyle = {
+  width: '100%',
   marginTop: 'auto',
   padding: '16px',
   backgroundColor: '#55c4f0',

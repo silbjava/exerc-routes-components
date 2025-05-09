@@ -13,7 +13,7 @@ const sectionStyle = {
   padding: '40px',
   backgroundColor: '#f3f3f3',
   borderRadius: '12px',
-  textAlign: 'center',
+  textAlign: 'center'
 };
 
 const titleStyle = {

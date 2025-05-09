@@ -18,7 +18,7 @@ export default function UserProfile() {
 
 const profileStyle = {
   backgroundColor: '#dfd0f5',
-  padding: '30px',
+  padding: '10px',
   borderRadius: '10px',
 };
 
